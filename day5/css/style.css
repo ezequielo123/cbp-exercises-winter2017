@@ -1,3 +1,19 @@
+body {
+    font-size: 20px;
+    font-style: italic;
+    font-family: sans-serif;
+}
 h1 {
-color: red;
+    color: deepskyblue;
+}
+.main {
+    color: skyblue;
+    background-color: grey;
+}
+.main p {
+    color: skyblue;
+    background-color: grey;
+}
+p {
+    color: black;
 }
