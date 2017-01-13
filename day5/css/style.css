@@ -1,19 +1,60 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}  
+
 body {
-    font-size: 20px;
-    font-style: italic;
-    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}   
+.pinkie {
+    background-color: deeppink;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    left: 50px;
 }
-h1 {
-    color: deepskyblue;
+
+.greenie {
+    background-color: darkseagreen;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50px;
+    left: 30px;
 }
-.main {
-    color: skyblue;
-    background-color: grey;
+
+.cabbie {
+    background-color: yellow;
+    width: 20px;
+    height: 20px;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
 }
-.main p {
-    color: skyblue;
-    background-color: grey;
+.cabbie1 {
+    background-color: yellow;
+    width: 20px;
+    height: 20px;
+    position: fixed;
+    right: 0px;
+    top: 0px;
 }
-p {
-    color: black;
+.cabbie2 {
+    background-color: yellow;
+    width: 20px;
+    height: 20px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+.cabbie3 {
+    background-color: yellow;
+    width: 20px;
+    height: 20px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
 }

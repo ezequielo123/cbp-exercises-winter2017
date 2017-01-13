@@ -1,0 +1,30 @@
+body {
+    font-size: 20px;
+    font-style: normal;
+    font-family: sans-serif;
+}
+div {
+    margin-bottom: 10px;
+}    
+h1 {
+    font-family: sans-serif;
+    color: deepskyblue;
+    padding: 20px;
+    text-align: center;
+ }   
+ .wrapper {
+     display: flex;
+     /*background-color: darkolivegreen;*/
+ }    
+.main {
+    flex: 1;
+    /*background-color: grey;*/
+    /*border: 10px solid blue;*/
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+img:hover {
+    text-decoration: underline;
+}
+    

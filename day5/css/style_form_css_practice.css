@@ -1,0 +1,32 @@
+*,
+*:before,
+*:after{box-sizing:border-box} 
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+} 
+
+.wrapper {
+     float: left;
+     background-color: darkolivegreen;
+ }    
+.main {
+    background-color: grey;
+    border: 10px solid blue;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}  
+.inside {
+    border-width: 20px;
+    border-color: red;
+    height: 150px;
+    overflow: hidden;
+}    
+.notmain {
+    font-family: serif;
+    font-size: 8px;
+    font-weight: bold;
+}       
