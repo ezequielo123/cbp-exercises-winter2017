@@ -24,37 +24,19 @@ body {
     position: absolute;
     top: 50px;
     left: 30px;
+	z-index: 100px;
 }
 
 .cabbie {
     background-color: yellow;
     width: 20px;
     height: 20px;
-    position: fixed;
-    right: 0px;
-    bottom: 0px;
+    position: absolute;
+    right: 40px;
+    bottom: 40px;
+	z-index: 0px;
 }
-.cabbie1 {
-    background-color: yellow;
-    width: 20px;
-    height: 20px;
-    position: fixed;
-    right: 0px;
-    top: 0px;
-}
-.cabbie2 {
-    background-color: yellow;
-    width: 20px;
-    height: 20px;
-    position: fixed;
-    top: 0px;
-    left: 0px;
-}
-.cabbie3 {
-    background-color: yellow;
-    width: 20px;
-    height: 20px;
-    position: fixed;
-    bottom: 0px;
-    left: 0px;
+
+.greenie:hover {
+	z-index: 100px;
 }
