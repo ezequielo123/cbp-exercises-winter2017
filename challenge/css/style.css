@@ -24,6 +24,7 @@ a:hover {
     margin-right: 220px;
     position: absolute;
     margin-bottom: 20px;
+    max-width: 1000px;
 }      
 
 .navi2 {
