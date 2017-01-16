@@ -1,0 +1,42 @@
+.outer {
+    width: 80%;
+    min-height: 80vh;
+    margin-top: 10vh;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+    height: auto;
+    background: linear-gradient(to bottom, #F46629 0%, #EAAA2A 45%, #47AEB7 70%, #23538A 100%);
+}
+
+.inner {
+    width: 50%;
+    margin: 10%;
+    color: #ffffff;
+    background-image: url('../img/image.jpg');
+    background-size: center content;
+
+    background: rgb(0, 0, 0, 0.5) ('../img/image.jpg') left top/50% 50% no-repeat no-repeat scroll;
+}
+
+.newinner {
+    width: 200px;
+    height: 200px;
+    border: 1px solid white;
+    /*background: url('../img/smiley.png');
+    background-position: center;
+    background-repeat: no-repeat;*/
+    background: url('../img/smiley.png') center center/50% 50% no-repeat no-repeat;
+}
+
+.nebula {
+    width: 100%;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid white;
+    box-sizing: border-box;
+    background: url('../img/nebula.jpg') top left/cover fixed;
+}

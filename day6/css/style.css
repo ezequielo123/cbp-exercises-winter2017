@@ -1,0 +1,32 @@
+p:first-letter {
+    font-size: 3em;
+    line-height: 1em;
+    float: left;
+} 
+
+body {
+    font-family: Arial, Helvetica, sans-serif
+} 
+
+.container  {
+    max-width: 1200px;
+    max-height: 600px;
+    overflow: scroll;
+    margin: 0 auto;
+} 
+
+.header {
+    background-color: grey;
+    height: 50px;
+    margin-right: 162px;
+} 
+
+h1 {
+    text-align: left:
+} 
+
+p {
+    padding-left: 1em;
+    border-left: 3px solid blue;
+    margin-right: 80px;  
+}  
