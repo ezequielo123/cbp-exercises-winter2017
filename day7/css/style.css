@@ -1,0 +1,34 @@
+h1,
+h2 {
+  color: #ffa500;
+}
+section {
+  border-bottom: 1px solid #ff0000;
+  padding: 16px;
+}
+.bordered {
+  border: 1px solid red;
+}
+.list-item {
+  background-color: yellow;
+  border: 1px solid red;
+}
+.shadowed {
+  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+p,
+img {
+  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.padded {
+  padding: 16px;
+}
+.first a {
+  text-decoration: none;
+}
+.first p {
+  background-color: #e0e0e0;
+}
+.first p a {
+  color: #ff0000;
+}

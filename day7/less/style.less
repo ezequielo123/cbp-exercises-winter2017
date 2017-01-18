@@ -1,0 +1,44 @@
+@main_color: orange;
+@highlight_color: red;
+@main_size: 16px;
+
+h1, h2 {
+    color: @main_color;
+}
+
+section {
+    border-bottom: 1px solid @highlight_color;
+    .padded;
+}
+
+.bordered {
+    border: 1px solid red;
+}
+.list-item {
+    background-color: yellow;
+    .bordered;
+}
+
+.shadowed  {
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+p, img {
+    .shadowed;
+}
+
+.padded  {
+    padding: 16px;
+}
+
+.first {
+        a {
+            text-decoration: none;
+        } 
+        p {
+               background-color: #e0e0e0;
+               a {
+                   color: @highlight_color;
+               }    
+            }
+}        
