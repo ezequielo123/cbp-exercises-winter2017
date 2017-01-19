@@ -1,0 +1,50 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+}
+#topmenu {
+  display: block;
+  background-color: darkgrey;
+  height: 100px;
+  width: 1000px;
+  margin-top: 45px;
+  margin-left: 45px;
+}
+
+#leftmenu li {
+  display: block;
+  background-color: darkgrey;
+  height: 20px;
+  width: 200px;
+  margin-left: 5px;
+  margin-top: 1px;
+  list-style-type: none;
+}
+
+.submenu {
+  display: inline-block;
+  background-color: goldenrod;
+  height: 20px;
+  width: 200px;
+  margin-left: 45px;
+}
+
+#content {
+  margin-left: 250px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  padding-left: 5px;
+}
+.submenu a  {
+  text-decoration: none;
+  color: white;
+}
+
+/*# sourceMappingURL=index.css.map */
