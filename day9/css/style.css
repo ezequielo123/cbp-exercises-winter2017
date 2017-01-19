@@ -1,0 +1,19 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+#topmenu {
+    background-color: darkgrey;
+    height: 60px;
+    width: 1000px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a .leftmenu {
+    color: white;
+}
