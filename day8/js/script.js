@@ -1,3 +1,7 @@
 var message_element = document.getElementById('message');
-console.log(message_element.innerHTML);
-console.log(typeof message_element);
+var html_inside = message_element.innerHTML;
+console.log(html_inside);
+html_inside = "This is new text";
+console.log(html_inside);
+
+
