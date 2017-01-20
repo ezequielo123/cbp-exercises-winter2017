@@ -1,0 +1,16 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+@media (min-width: 1000px) {
+    #content {
+      text-align: center;
+}
+
+#content { 
+    width: 600px;
+    width: 1000px;
+}
+
+/*# sourceMappingURL=index.css.map */
