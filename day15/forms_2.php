@@ -1,8 +1,9 @@
 <form action="" method="post">
     Product: <input type="text" name="product"><br><br>
     Color: <input type="text" name="color"><br><br>
-    Really? <input type="checkbox" name="really"><br><br>
-    Country: CZ<input type="radio" name="country" value="CZ">US<input type="radio" name="country" value="US" checked><br><br>
+    <label for="really-on">Really? </label><input type="checkbox" name="really" id="really-on" checked><br><br>
+
+    Country: <label for="country-cz">CZ</label><input type="radio" name="country" value="CZ" id="country-cz"><label for="country-cz"><label for="country-us">US</label></label><input type="radio" name="country" value="US" checked id="country-us"><br><br>
     <input type="submit" value="Submit">
 </form>    
 
@@ -26,5 +27,5 @@
 
             ?>    
             
-            <p>Your order:<br><br> <?php echo show_products($new_variable, $new_variable2, $new_variable4); ?></p>
+            <h1 style="color:red"><em><strong><hr>Your order:<hr></strong></em></h1><p><?php echo show_products($new_variable, $new_variable2, $new_variable4); ?></p>
 </div>
