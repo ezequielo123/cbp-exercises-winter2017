@@ -24,17 +24,14 @@
 <body>
 
     <ol>
-    <?php for ($i = 0; $i < count($movies,0); $i++) : ?>
+    <?php for ($i = 0; $i < count($movies); $i++) : ?>
 
         <li><?php echo $movies[$i]; ?></li>
 
     <?php endfor; ?>   
     </ol> 
 
-    <?php 
-
-        sort($movies);
-    ?>      
+    <?php sort($movies); ?>      
 
     <ol>
     <?php foreach($movies as $value) : ?>
@@ -43,6 +40,8 @@
 
     <?php endforeach; ?> 
     </ol>
+
+    
       
 
 </body>
