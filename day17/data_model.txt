@@ -1,0 +1,57 @@
+student:
+    first_name: short string
+    last_name: short string
+    age: integer
+    gender: boolean
+    currently_enrolled: boolean
+    date_of_birth: short string
+    nationality: short string
+    heigh: decimal
+    weight: decimal
+    phone_number: short string
+    background: long string
+    grade_avg = decimla number
+    ability_to_code: boolean (true or false)
+
+
+-- ---
+-- Globals
+-- ---
+
+-- SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+-- SET FOREIGN_KEY_CHECKS=0;
+
+-- ---
+-- Table 'student'
+-- 
+-- ---
+
+DROP TABLE IF EXISTS `student`;
+		
+CREATE TABLE `student` (
+  `id` INTEGER NULL AUTO_INCREMENT DEFAULT NULL,
+  `first_name` VARCHAR(127) NULL DEFAULT NULL,
+  `last_name` VARCHAR(127) NULL DEFAULT NULL,
+  `age` INTEGER(11) NULL DEFAULT NULL,
+  `gender` TINYINT(1) NULL DEFAULT NULL,
+  `date_of_birth` DATE NULL DEFAULT NULL,
+  PRIMARY KEY (`id`)
+);
+
+-- ---
+-- Foreign Keys 
+-- ---
+
+
+-- ---
+-- Table Properties
+-- ---
+
+-- ALTER TABLE `student` ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
+
+-- ---
+-- Test Data
+-- ---
+
+-- INSERT INTO `student` (`id`,`first_name`,`last_name`,`age`,`gender`,`date_of_birth`) VALUES
+-- ('','','','','','');
