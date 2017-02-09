@@ -1,6 +1,6 @@
 <?php
 	
-    define("CURRENCY", "Pesos argentinos");
+    define("CURRENCY", "CZK");
     $price = CURRENCY;
 
 	function print_price($price) {
@@ -17,5 +17,17 @@
           break;
        }
     }
-    print_price($price);
+
+    
 ?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <p>Hola <?php echo print_price($price); ?></p>
+</body>
+</html>

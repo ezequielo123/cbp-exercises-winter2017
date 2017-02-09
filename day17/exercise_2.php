@@ -22,7 +22,7 @@ function validating($string, $messages = array())
         <?php $messages = array(); ?>
         <?php validating(0, $messages); ?>
 
-        <?php foreach($messages as $message); ?>
+        <?php foreach($messages as $message) : ?>
 
             <div class="message error"><?php echo $message; ?></div>
 

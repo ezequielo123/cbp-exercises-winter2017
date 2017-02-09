@@ -18,8 +18,14 @@ require_once 'database.php';
     }   
 
 ?>
-
-<form action="" method="post">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <form action="" method="post">
     <label for="name">
     Name: <input name="name" id="name" type="text"><br><br>
     <label for="owner">
@@ -31,4 +37,7 @@ require_once 'database.php';
         ?>
         </select>    
     <input type="submit" value="Submit">
-</form>    
+</form> 
+</body>
+</html>
+   

@@ -1,0 +1,1 @@
+<h5>Copyright &copy;<?php echo date('Y');?> <a href="http://www.ezequiel.data4you.cz" target="_blank">Ezequiel Orozco</a></h5>

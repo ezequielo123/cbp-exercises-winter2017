@@ -1,23 +1,17 @@
-body {
-  font-family: 'Playfair Display', serif;
-  background-image: url('https://www.rapid-banners.com/wp-content/uploads/2013/04/map.png');
-  background-repeat: no-repeat;
+h1,
+h2 {
+  color: #ffa500;
 }
-h1, h2, h3 {
-  font-family: 'Playfair Display', serif;
-  color: #B7A158;
+section {
+  border-bottom: 1px solid #ff0000;
+  padding: 16px;
 }
-h1 {
-  text-align: center;
-  color: #B7A158;
-  font-size: 4.5em;
+
+.hola {
+    background-color: grey;
 }
-.navi {
-  text-align: right;
+
+.hola > p {
+  border: 1px solid red;
 }
-a {
-  text-decoration: none;
-} 
-.container {
-  
-} 
+
