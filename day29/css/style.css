@@ -1,0 +1,74 @@
+h2 {
+    text-align: center;
+    color: black;
+    padding-bottom: 10px;
+}
+.border-input {
+    border: 2px solid black;
+    box-shadow: 10px 10px 5px #888888;
+}
+.new-form {
+    display: flex;
+    justify-content: space-around;
+}
+.para {
+    font-size: 16px;
+}
+.admin-panel {
+    position: fixed;
+    padding: 1px;
+    top: 0;
+    right: 0;
+}   
+.above-left {
+    display: flex;
+    justify-content: flex-start;
+    padding-right: 5px;
+    padding-top: 35px;
+    padding-left: 200px;
+}
+.space {
+    padding-right: 8px;
+    padding-bottom: 15px;
+}
+.container {
+    padding-top: 50px;
+}
+.headers {
+    font-size: 18px;
+    font-weight: bold;
+}
+.amazon {
+    background-color: black;
+}
+
+.container.text-center {
+    height: 250px;
+    width: 350px;
+    background-color: lightgray;
+    border: 1px solid grey;
+}
+.space {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 45px;
+}
+
+a.register {
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 5px;
+    padding-left: 950px;
+}
+h1.register2 {
+    padding-left: 190px;
+}
+h5.register2 {
+    padding-left: 190px;
+}
+a.register:hover {
+    text-decoration: none;
+}
+.hidden {
+    display: none;
+}
