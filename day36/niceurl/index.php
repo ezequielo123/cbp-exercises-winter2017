@@ -1,0 +1,5 @@
+<?php
+
+var_dump($_SERVER['REQUEST_URI']);
+
+die('THIS IS THE RIGHT FRONT CONTROLLER');

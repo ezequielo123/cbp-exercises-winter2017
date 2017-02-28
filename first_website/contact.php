@@ -3,6 +3,24 @@
 	define('TITLE', 'Contact us | Our company');
 	include('includes/header.php');
 
+	if ($_POST) {
+		// Download class.phpmailer.php from https://github.com/PHPMailer/PHPMailer
+		require_once 'class.phpmailer.php';
+		// An example to send email from a contact form
+		$mail = new PHPMailer();
+		$mail->setFrom('your@example.com', 'Company'); // Do not put user's email there, just your
+		$mail->addAddress('your@example.com', 'Company');
+		$mail->addReplyTo($_POST['email'], $_POST['name']);
+		$mail->Subject = 'Here is the subject';
+		$mail->Body = 'Something something something body, this is what the visitor said, enjoy: ' . $_POST['message'];
+		if(!$mail->send()) {
+			echo 'Message could not be sent.';
+			echo 'Mailer Error: ' . $mail->ErrorInfo;
+		} else {
+			echo 'Message has been sent';
+		}
+	}
+
 ?>
 
 	<div id="contact">

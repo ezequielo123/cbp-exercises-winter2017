@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <h1></h1>
+    
+    <script>
+        
+        var child;
+
+        do{
+            child = prompt('How many children do you have?');
+        }while(isNaN(child) || child < 0 || child > 100);
+
+        if(child != 0){
+            var names = "";
+        
+            for(i=0; i < child; i++){
+                var name = prompt('Write the name of your ' + (i + 1) + ' child'); 
+                names += name + ', ';
+                
+            }
+            alert('Hi ' + names);
+        }    
+
+    </script>
+</body>
+</html>

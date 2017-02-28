@@ -1,0 +1,2 @@
+<?php
+die("Nothing found");

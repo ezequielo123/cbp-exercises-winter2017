@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+
+        .contentis {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+        }
+        #button1 {
+
+        }
+
+        
+
+    </style>
+</head>
+<body>
+    <div id="content"><h1>First content</h1></div>
+    <div class="contentis">
+        <button type="button" id="button1" >Click me</button>
+        <button type="button" id="button2">Click me</button>
+        <button type="button" id="button3">Click me</button>
+    </div>    
+    
+    <script>
+        
+        document.getElementById('button1').onclick = change;
+
+
+        function change(){
+            var element = document.getElementById('content');
+            element.innerHTML = 'FUCK YOU RUTGER.';
+            element.style.color = 'green';
+            element.style.backgroundColor = '#E6CCFF';
+            element.className = "class";
+        }
+
+        document.getElementById('button2').onclick = change2;
+        
+        function change2(){
+            var newElement = document.createElement('div');
+            document.getElementsByTagName('body')[0].appendChild(newElement);
+            newElement.style.color = 'green';
+            newElement.id = 'button222';
+            newElement.style.backgroundColor = '#E6CCFF';
+            document.getElementById('button222').innerHTML = "FUCK YOU RUTGER";
+       }
+
+       document.getElementById('button3').onclick = change3;
+        
+        function change3(){
+            var element = document.getElementById('content');
+            element.innerHTML = 'FUCK YOU RUTGER.';
+            element.style.color = 'green';
+            element.style.backgroundColor = '#E6CCFF';
+            element.className = "class";
+       }
+        
+        
+    </script>
+</body>
+</html>

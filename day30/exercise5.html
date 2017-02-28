@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <h1></h1>
+    
+    <script>
+        
+        var child;
+
+        do{
+            child = prompt('How many children do you have?');
+        }while(isNaN(child) || child < 0 || child > 100);
+
+        if(child != 0){
+            var names = [];
+        
+            for(var i=0; i < child; i++){
+
+                var uniqueName;
+                var tempName;
+                do{
+                    uniqueName = true;
+                    var tempName = prompt('Write the name of your ' + getOrder(i + 1) + ' child'); 
+
+                    uniqueName = (names.indexOf(tempName) == -1);
+
+                }while(!uniqueName);
+
+                names[i] = tempName; 
+                
+            }
+            var greeting = names.join(', ') + '.';
+            alert('Hello ' + greeting);
+        }    
+
+        function getOrder(n){
+            var order = 'th';
+
+            if (n == 1) order = 'st';
+            if (n == 2) order = 'nd';
+            if (n == 3) order = 'rd';
+
+            return n + order;
+        }
+
+    </script>
+</body>
+</html>
