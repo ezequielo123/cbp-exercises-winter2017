@@ -3,13 +3,20 @@ session_start();
 require_once './shared/database.php';
 $db = new Database();
 if ($_POST) {
-    
-    $orderid = $db->insertorderid($_SESSION['userid']);
-    foreach ($_SESSION['products'] as $id) {
-        $db->insertorderproduct($id, $orderid);
+    try{
+        $db->beginTransaction();
+        $orderid = $db->insertorderid($_SESSION['userid']);
+        foreach ($_SESSION['products'] as $id) {
+            $db->insertorderproduct($id, $orderid);
+        }
+        $_SESSION['products'] = [];
+        $db->commitTransaction();
+        $stored = 1;
+    } catch (PDOException $e) {
+        $db->rollBackTransaction();
+        $stored = 0;
     }
-    $_SESSION['products'] = [];
-    header('Location: index.php');
+    header('Location: index.php?status=' . $stored);
 } 
 
    

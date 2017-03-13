@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="src/form.scss">
+    <style>
+
+    </style>
+</head>
+
+<body>
+    
+    <h1>HTML 5 Form</h1>
+
+    <form action="" method="GET">
+        <label>How much? (in thousands)</label><br />
+        <input id="hola" class="numberinput" type="number" min="1000" max="100000" step="200" autofocus onchange="changeClass()"><br /><br />
+
+        <label>Why do you need it? (at least 10 characters)</label><br />
+        <input id="hola2" type="text" class="numberinput" autocomplete placeholder="I need it to buy a flower" pattern=".{10,}" onchange="changeClass()"><br /><br />
+
+        <label>E-mail</label><br />
+        <input id="hola" type="email" class="numberinput" required onchange="changeClass()"><br /><br />
+
+        <label>Message</label><br />
+        <input type="text" class="newinput" onchange="showButton()"><br /><br />
+
+        <input id="submit" type="submit" class="submit" value="Submit form">
+
+    </form>    
+
+    <script>
+        window.addEventListener('load', function() {
+            var submitbutton = document.getElementById('submit');
+            submitbutton.style.display = 'none';
+        });
+
+        function showButton(){
+            document.getElementById('submit').style.display='block';
+        }
+
+        function changeClass(){
+            document.getElementById("hola","hola2").className = "numberinputvalid";
+        }
+    </script>    
+
+</body>
+
+</html>

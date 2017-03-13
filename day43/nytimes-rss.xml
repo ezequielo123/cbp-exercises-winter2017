@@ -1,0 +1,554 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Wed, 08 Mar 2017 10:08:55 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>North Korea Tensions Pose Early, and Perilous, Test for Trump</title>
+      <link>http://www.nytimes.com/2017/03/07/world/asia/korea-missile-defense-china-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/asia/korea-missile-defense-china-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/asia/korea-missile-defense-china-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08nkorea/08nkorea-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>This photograph distributed by North Korea&#x2019;s state news agency on Tuesday purports to show the launch of four ballistic missiles.</media:description>
+      <media:credit>Korean Central News Agency</media:credit>
+      <description>The North&#x2019;s provocations and Chinese anger over the deployment of a missile defense system in South Korea are creating a difficult balancing act for the new administration.</description>
+      <dc:creator>DAVID E. SANGER, CHOE SANG-HUN, CHRIS BUCKLEY and MICHAEL R. GORDON</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 02:08:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+    </item>
+    <item>
+      <title>New Israel Law Bars Foreign Critics From Entering the Country</title>
+      <link>http://www.nytimes.com/2017/03/07/world/middleeast/israel-knesset-vote-boycott-bds-reform-judaism.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/middleeast/israel-knesset-vote-boycott-bds-reform-judaism.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/middleeast/israel-knesset-vote-boycott-bds-reform-judaism.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08Boycott/08Boycott-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A banner calling for the boycott, divestment and sanctioning of Israel hanging from the Manhattan Bridge in New York during a protest against Israel&#x2019;s military campaign in Gaza in 2014.</media:description>
+      <media:credit>Michael Appleton for The New York Times</media:credit>
+      <description>The measure set off alarms in the United States, where Israel&#x2019;s critics and some of its most loyal Jewish supporters alike warned that it would further isolate the country.</description>
+      <dc:creator>LAURIE GOODSTEIN</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 01:47:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Boycotts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Boycott, Divestment and Sanctions (BDS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+    </item>
+    <item>
+      <title>For Trump and Netanyahu, a Budding Symbiotic Relationship</title>
+      <link>http://www.nytimes.com/2017/03/07/world/middleeast/israel-benjamin-netanyahu-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/middleeast/israel-benjamin-netanyahu-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/middleeast/israel-benjamin-netanyahu-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08prexy/08prexy-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump and Benjamin Netanyahu during the Israeli Prime Minister&#x2019;s recent visit to Washington.</media:description>
+      <media:credit>Stephen Crowley/The New York Times</media:credit>
+      <description>President Trump and Prime Minister Benjamin Netanyahu of Israel seem eager to build a mutually beneficial political friendship by playing a supportive role for each other on key issues.</description>
+      <dc:creator>MARK LANDLER</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 01:43:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Astana Journal: Kazakh Capital, a Post-Soviet Creation, Is Growing Real Roots</title>
+      <link>http://www.nytimes.com/2017/03/07/world/asia/kazakh-capital-a-post-soviet-creation-is-growing-real-roots.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/asia/kazakh-capital-a-post-soviet-creation-is-growing-real-roots.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/asia/kazakh-capital-a-post-soviet-creation-is-growing-real-roots.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/europe/astana-slide-MQMI/astana-slide-MQMI-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A view from the Rixos President Astana Hotel in Kazakhstan, where Syrian peace negotiations have taken place.</media:description>
+      <media:credit>Anne Barnard/The New York Times</media:credit>
+      <description>In 1993, Kazakhstan&#x2019;s president moved the capital to what is now Astana, blending elements of its Islamic roots with a dose of a personality cult.</description>
+      <dc:creator>ANNE BARNARD</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 14:30:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-dispatch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Astana (Kazakhstan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kazakhstan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caucasus (Russia)</category>
+    </item>
+    <item>
+      <title>South Africa Reverses Withdrawal From International Criminal Court</title>
+      <link>http://www.nytimes.com/2017/03/08/world/africa/south-africa-icc-withdrawal.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/08/world/africa/south-africa-icc-withdrawal.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/08/world/africa/south-africa-icc-withdrawal.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/09/world/09safrica-1/09safrica-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Jacob Zuma of South Africa at a National Defense Force parade in Durban last month. His government has long said the International Criminal Court is biased against African states.</media:description>
+      <media:credit>Kim Ludbrook/European Pressphoto Agency</media:credit>
+      <description>In a letter to the United Nations secretary general, the country cited a recent court ruling that declared an exit &#x201C;unconstitutional and invalid.&#x201D;</description>
+      <dc:creator>NORIMITSU ONISHI</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 09:51:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuma, Jacob G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">International Criminal Court</category>
+    </item>
+    <item>
+      <title>Son of Kim Jong-nam Appears to Surface in YouTube Video</title>
+      <link>http://www.nytimes.com/2017/03/08/world/asia/kim-jong-nam-son-video-north-korea.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/08/world/asia/kim-jong-nam-son-video-north-korea.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/08/world/asia/kim-jong-nam-son-video-north-korea.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/09/world/09malaysia-1/09malaysia-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>News reports in Seoul, South Korea, on Wednesday showed a young man who identified himself as Kim Han-sol, the son of Kim Jong-nam.</media:description>
+      <media:credit>Jung Yeon-Je/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>In the video, a man who calls himself Kim Han-sol shows what seems to be his North Korean passport and says that he is in hiding with his mother and sister.</description>
+      <dc:creator>CHOE SANG-HUN and RICHARD C. PADDOCK</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 08:24:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-nam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Han-sol, Kim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
+    </item>
+    <item>
+      <title>China Tries to Defuse Tensions Over North Korea</title>
+      <link>http://www.nytimes.com/2017/03/08/world/asia/china-north-korea-thaad-nuclear.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/08/world/asia/china-north-korea-thaad-nuclear.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/08/world/asia/china-north-korea-thaad-nuclear.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/09/world/09korea-1/09korea-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>American soldiers during a military exercise in Paju, South Korea, near the border with North Korea, on Tuesday. The United States began assembling a missile defense system in South Korea this week.</media:description>
+      <media:credit>Jung Yeon-Je/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>China called on the North to suspend its nuclear program in exchange for a halt to U.S.-South Korean military drills. But it was far from clear the idea would gain traction.</description>
+      <dc:creator>CHRIS BUCKLEY</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 08:16:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+    </item>
+    <item>
+      <title>Few Clues as Malaysia Airlines Mystery Marks Its Third Anniversary</title>
+      <link>http://www.nytimes.com/2017/03/08/world/asia/malaysia-airlines-flight-mh370-anniversary.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/08/world/asia/malaysia-airlines-flight-mh370-anniversary.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/08/world/asia/malaysia-airlines-flight-mh370-anniversary.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/09/world/09flight-1/09flight-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>In Beijing on Wednesday, relatives of passengers on a Malaysia Airlines flight missing for three years called on the Chinese government to continue the search.</media:description>
+      <media:credit>Ng Han Guan/Associated Press</media:credit>
+      <description>The disappearance of Malaysia Airlines Flight 370 remains one of the biggest aviation mysteries of all time. Here&#x2019;s a look at some of our coverage.</description>
+      <dc:creator>DANIELLE BELOPOTOSKY</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 07:02:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Malaysia Airlines Flight 370</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indian Ocean</category>
+    </item>
+    <item>
+      <title>Kabul Military Hospital in Afghanistan Comes Under Attack</title>
+      <link>http://www.nytimes.com/2017/03/08/world/asia/kabul-military-hospital-in-afghanistan-comes-under-attack.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/08/world/asia/kabul-military-hospital-in-afghanistan-comes-under-attack.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/08/world/asia/kabul-military-hospital-in-afghanistan-comes-under-attack.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/09/world/09afghanistan-3/09afghanistan-3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A helicopter from the Afghan National Army arriving at a military hospital in Kabul, the capital, on Wednesday. The hospital is the main care center for wounded Afghan army soldiers.</media:description>
+      <media:credit>Mohammad Ismail/Reuters</media:credit>
+      <description>A suicide bomber had detonated his explosives at the main military hospital before other assailants entered the building, Afghan officials said.</description>
+      <dc:creator>MUJIB MASHAL and FAHIM ABED</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 06:30:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+    </item>
+    <item>
+      <title>Lynne Stewart, Lawyer Imprisoned in Terrorism Case, Dies at 77</title>
+      <link>http://www.nytimes.com/2017/03/07/nyregion/lynne-stewart-dead-radical-leftist-lawyer.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/nyregion/lynne-stewart-dead-radical-leftist-lawyer.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/nyregion/lynne-stewart-dead-radical-leftist-lawyer.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/obituaries/08stewart-1/08stewart-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Lynne F. Stewart in 2004. As a lawyer, she represented violent, self-described revolutionaries.</media:description>
+      <media:credit>Chester Higgins Jr./The New York Times</media:credit>
+      <description>Ms. Stewart, who was convicted of aiding terrorism in her representation of Omar Abdel Rahman, was also known for defending a member of the Weather Underground and other violent activists.</description>
+      <dc:creator>JOSEPH P. FRIED</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 04:57:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stewart, Lynne F</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdel Rahman, Omar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Weather Underground</category>
+    </item>
+    <item>
+      <title>WikiLeaks Reignites Tensions Between Silicon Valley and Spy Agencies</title>
+      <link>http://www.nytimes.com/2017/03/07/technology/wikileaks-silicon-valley-spy-agencies.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/technology/wikileaks-silicon-valley-spy-agencies.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/technology/wikileaks-silicon-valley-spy-agencies.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/business/08techimpact1/08techimpact1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A pedestrian walked by the Apple Store on Fifth Avenue in February 2016 in Manhattan, while a group of demonstrators protested F.B.I. efforts to force Apple to help access the iPhone of an attacker in the 2015 shooting in San Bernardino, Calif.</media:description>
+      <media:credit>Julie Jacobson/Associated Press</media:credit>
+      <description>Leaked documents appear to indicate that the C.I.A. was collecting cyberweapons that can break into smartphones and even internet-connected televisions.</description>
+      <dc:creator>VINDU GOEL and NICK WINGFIELD</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 02:31:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">WikiLeaks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Snowden, Edward J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+    </item>
+    <item>
+      <title>Top U.S. General Discusses Syria With Counterparts From Russia and Turkey</title>
+      <link>http://www.nytimes.com/2017/03/07/world/middleeast/russia-turkey-syria-deconfliction.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/middleeast/russia-turkey-syria-deconfliction.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/middleeast/russia-turkey-syria-deconfliction.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08Military1/08Military1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A convoy of United States armored vehicles in Manbij, northern Syria. A Pentagon spokesman said Monday that the deployment was intended as a &#x201C;visible sign of deterrence and reassurance&#x201D; to dissuade Turkish-backed militias and other groups from attacking the area.</media:description>
+      <media:credit>Delil Souleiman/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The meeting was called to discuss how to avoid an unintended confrontation as forces from all three nations operate on an increasingly crowded battlefield in northern Syria.</description>
+      <dc:creator>MICHAEL R. GORDON</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 00:05:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dunford, Joseph F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gerasimov, Valery V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+    </item>
+    <item>
+      <title>For I.P.O., Saudi Oil Company May Have to Give Up Some of Its Secrets</title>
+      <link>http://www.nytimes.com/2017/03/07/business/energy-environment/saudi-aramco-oil-ipo.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/business/energy-environment/saudi-aramco-oil-ipo.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/business/energy-environment/saudi-aramco-oil-ipo.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/business/08ARAMCO1/08ARAMCO1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An oil complex under construction in December 2011 in Jubail, Saudi Arabia &#x2014; a joint venture between Saudi Aramco and a foreign oil company. An initial public offering of Saudi Aramco is expected by the end of 2018.</media:description>
+      <media:credit>Ayesha Malik</media:credit>
+      <description>Some bankers think the state-held Saudi Aramco is worth only a fraction of the value it claims. Investors are pushing for transparency before its initial public offering.</description>
+      <dc:creator>CLIFFORD KRAUSS</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 22:45:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Saudi Aramco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Falih, Khalid al-</category>
+    </item>
+    <item>
+      <title>House of Lords Votes for Parliament to Have More Say on &#x2018;Brexit&#x2019;</title>
+      <link>http://www.nytimes.com/2017/03/07/world/europe/uk-brexit-house-of-lords.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/europe/uk-brexit-house-of-lords.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/europe/uk-brexit-house-of-lords.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08Lords1/08Lords1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The House of Lords voted to give Britain&#x2019;s Parliament a greater say over the outcome of talks on exiting the European Union.</media:description>
+      <media:credit>Niklas Halle'N/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The Lords sought more influence over a deal to leave the European Union than just the up-or-down vote offered by Prime Minister Theresa May.</description>
+      <dc:creator>STEPHEN CASTLE</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 20:45:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">House of Lords (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+    </item>
+    <item>
+      <title>Before Elections, Dutch Fear Russian Meddling, but Also U.S. Cash</title>
+      <link>http://www.nytimes.com/2017/03/07/world/europe/before-elections-dutch-fear-russian-meddling-but-also-us-cash.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/europe/before-elections-dutch-fear-russian-meddling-but-also-us-cash.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/europe/before-elections-dutch-fear-russian-meddling-but-also-us-cash.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08Eurolex1/08Eulex1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Geert Wilders at a campaign stop in Spijkenisse, the Netherlands, last month. The far-right Dutch lawmaker has drawn support from some American conservatives.</media:description>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <description>American conservative activists are supporting Europe&#x2019;s far-right figures like Geert Wilders, who are campaigning against the European Union.</description>
+      <dc:creator>DANNY HAKIM and CHRISTOPHER F. SCHUETZE</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 22:54:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilders, Geert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alternative for Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Front (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">King, Steven A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+    </item>
+    <item>
+      <title>&lt;div&gt;Major Christian Charity Is Closing India Operations Amid a Crackdown &lt;/div&gt;</title>
+      <link>http://www.nytimes.com/2017/03/07/world/asia/compassion-international-christian-charity-closing-india.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/asia/compassion-international-christian-charity-closing-india.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/asia/compassion-international-christian-charity-closing-india.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08india1/08india1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Pramod Dass, the director of Bethesda Charitable Endeavors, one of the 500 Indian partners of Compassion International that will have to shut down operations.</media:description>
+      <media:credit>Poras Chaudhary for The New York Times</media:credit>
+      <description>The group, Compassion International, which runs a &#x201C;sponsor a child&#x201D; program, is leaving India after 48 years amid pressure from the Modi government.</description>
+      <dc:creator>ELLEN BARRY and SUHASINI RAJ</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 19:05:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Foreign Aid</category>
+    </item>
+    <item>
+      <title>White Rhinoceros Is Killed for Its Horn at Wildlife Park Near Paris</title>
+      <link>http://www.nytimes.com/2017/03/07/world/europe/rhinoceros-vince-paris-killed.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/europe/rhinoceros-vince-paris-killed.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/europe/rhinoceros-vince-paris-killed.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08Rhino1/08Rhino1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Vince, the 4-year-old rhinoceros killed at a wildlife park west of Paris.</media:description>
+      <media:credit>Domaine de Thoiry Zoo, via Associated Press</media:credit>
+      <description>The horn of the 4-year-old rhinoceros, named Vince, was sawed off in the episode, according to officials at the Parc Zoologique de Thoiry.</description>
+      <dc:creator>AURELIEN BREEDEN</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 17:57:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poaching (Wildlife)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rhinoceroses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Zoos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Black Markets</category>
+    </item>
+    <item>
+      <title>Hungary Approves Detention of Asylum Seekers in Guarded Camps</title>
+      <link>http://www.nytimes.com/2017/03/07/world/europe/hungary-migrant-camps.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/europe/hungary-migrant-camps.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/europe/hungary-migrant-camps.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08Migrants1/08Hungary1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Building a fence on the border with Serbia in southern Hungary this month.</media:description>
+      <media:credit>Sandor Ujvari/European Pressphoto Agency</media:credit>
+      <description>Prime Minister Viktor Orban said the measure would act as a deterrent against migration, which he called the &#x201C;Trojan horse of terrorism.&#x201D;</description>
+      <dc:creator>DAN BILEFSKY</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 17:06:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Border Barriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orban, Viktor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hungary</category>
+    </item>
+    <item>
+      <title>Pleas for Somalia, on the Brink of Famine</title>
+      <link>http://www.nytimes.com/video/world/africa/100000004975412/pleas-for-somalia-on-the-brink-of-famine.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/video/world/africa/100000004975412/pleas-for-somalia-on-the-brink-of-famine.html</guid>
+      <description>United Nations officials in Somalia on Tuesday appealed to the international community for $825 million to address drought, cholera and starvation affecting about 5.5 million people, about half the country's population.</description>
+      <dc:creator/>
+      <pubDate>Tue, 07 Mar 2017 16:38:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Somalia</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Famine</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Cholera</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Drought</category>
+    </item>
+    <item>
+      <title>Fact-Check: Trump Is Wrong About Guant&#xE1;namo Detainees</title>
+      <link>http://www.nytimes.com/2017/03/07/us/politics/guantanamo-bay-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/us/politics/guantanamo-bay-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/us/politics/guantanamo-bay-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/us/08factcheck/08factcheck-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A United States soldier inside the detention center at Guant&#xE1;namo Bay, Cuba.</media:description>
+      <media:credit>John Moore/Getty Images</media:credit>
+      <description>President Trump&#x2019;s assertion that 122 former prisoners released during the Obama administration have returned to militant activity is false.</description>
+      <dc:creator>CHARLIE SAVAGE</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 16:34:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guantanamo Bay Naval Base (Cuba)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Australian Police Stopped a Car for Unpaid Fuel. They Found a Nightmare.</title>
+      <link>http://www.nytimes.com/2017/03/07/world/australia/british-woman-raped-australia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/australia/british-woman-raped-australia.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/australia/british-woman-raped-australia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08Backpacker/08Backpacker-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Detective Inspector Paul Hart in Toowoomba, Queensland, Australia, on Tuesday.</media:description>
+      <media:credit>Dave Hunt/European Pressphoto Agency</media:credit>
+      <description>Officers stopped a woman after she failed to pay for gasoline, and after noticing her facial injuries, they found a man hiding in the vehicle. He was charged.</description>
+      <dc:creator>JACQUELINE WILLIAMS</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 16:29:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queensland (Australia)</category>
+    </item>
+    <item>
+      <title>WikiLeaks Releases Trove of Alleged C.I.A. Hacking Documents</title>
+      <link>http://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08Wikileaks2/08Wikileaks2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The C.I.A. headquarters in Langley, Va. If the WikiLeaks documents are authentic, the release would be a serious blow to the agency.</media:description>
+      <media:credit>Jason Reed/Reuters</media:credit>
+      <description>The documents describe agency tools used to hack into smartphones and TVs, as well as to bypass encryption on programs like Signal and WhatsApp.</description>
+      <dc:creator>SCOTT SHANE, MATTHEW ROSENBERG and ANDREW W. LEHREN</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 03:02:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">WikiLeaks</category>
+    </item>
+    <item>
+      <title>IHT Retrospective Blog: 1917: Plot to Kill the President Is Discovered</title>
+      <link>https://iht-retrospective.blogs.nytimes.com/2017/03/07/1917-plot-to-kill-the-president-is-discovered/?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://iht-retrospective.blogs.nytimes.com/2017/03/07/1917-plot-to-kill-the-president-is-discovered/</guid>
+      <atom:link rel="standout" href="https://iht-retrospective.blogs.nytimes.com/2017/03/07/1917-plot-to-kill-the-president-is-discovered/?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/07/blogs/07oldmar-1917-attempt/07oldmar-1917-attempt-moth.png" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>IHT Archives</media:credit>
+      <description>A 31-year-old German is reported to have confessed to playing a role in a plot to assassinate President Wilson.</description>
+      <dc:creator>INTERNATIONAL HERALD TRIBUNE</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 15:16:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/">Hoboken (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/">Police Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/">Wilson, Woodrow</category>
+      <category domain="http://www.nytimes.com/namespaces/">World War I Centenary</category>
+    </item>
+    <item>
+      <title>Pakistan Reopens Border With Afghanistan for 2 Days</title>
+      <link>http://www.nytimes.com/2017/03/07/world/asia/pakistan-afghanistan-border.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/asia/pakistan-afghanistan-border.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/asia/pakistan-afghanistan-border.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08Pakistan/08Pakistan-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>People headed into Afghanistan at the reopened Torkham border crossing in Pakistan on Tuesday.</media:description>
+      <media:credit>Muhammad Sajjad/Associated Press</media:credit>
+      <description>The frontier, which had been closed 18 days ago over security concerns, was opened temporarily to allow Afghans stranded in Pakistan to return home.</description>
+      <dc:creator>SALMAN MASOOD</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 15:09:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+    </item>
+    <item>
+      <title>U.N. Chief, Visiting Somalia, Pleads for Aid to Avert Famine</title>
+      <link>http://www.nytimes.com/2017/03/07/world/africa/united-nations-famine-somalia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/africa/united-nations-famine-somalia.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/africa/united-nations-famine-somalia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08Somalia2/08Somalia2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The United Nations secretary general, Ant&#xF3;nio Guterres, in Mogadishu, Somalia, on Tuesday.</media:description>
+      <media:credit>Farah Abdi Warsameh/Associated Press</media:credit>
+      <description>Secretary General Ant&#xF3;nio Guterres has warned that millions of people in Nigeria, Somalia, South Sudan and Yemen are at risk from deadly hunger.</description>
+      <dc:creator>HUSSEIN MOHAMED and SEWELL CHAN</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 13:17:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guterres, Antonio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohamed, Mohamed Abdullahi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
+    </item>
+    <item>
+      <title>Attacks by Rebels in Myanmar Leave Dozens Dead</title>
+      <link>http://www.nytimes.com/2017/03/07/world/asia/myanmar-kokang-rebels-burma-china.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/asia/myanmar-kokang-rebels-burma-china.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/asia/myanmar-kokang-rebels-burma-china.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08myanmar-1/08myanmar-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A victim wounded in an attack by rebels in Laukkai, Myanmar, arrived at a local hospital on Monday.</media:description>
+      <media:credit>European Pressphoto Agency</media:credit>
+      <description>The assaults by an ethnic Chinese group were said to have targeted a hotel, casinos and police and army posts in an escalation of a long-running conflict.</description>
+      <dc:creator>WAI MOE and MIKE IVES</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 13:00:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aung San Suu Kyi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Kokang</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Myanmar National Democratic Alliance Army</category>
+    </item>
+    <item>
+      <title>High Court Asked to Limit Detention of Asylum Seekers in Australia for Care</title>
+      <link>http://www.nytimes.com/2017/03/07/world/australia/asylum-migration-law-nauru-manus.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/australia/asylum-migration-law-nauru-manus.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/australia/asylum-migration-law-nauru-manus.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08AUSTRALIA-ASYLUM-1/08AUSTRALIA-ASYLUM-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Asylum seekers with their ID cards after landing on Manus Island, Papua New Guinea, in 2013. Rights groups have assailed the conditions in such offshore camps.</media:description>
+      <media:credit>Eoin Blackwell/Australian Associated Press, via Associated Press</media:credit>
+      <description>A legal aid group is challenging the extended detention of asylum seekers transferred to Australia from offshore camps for medical treatment or other temporary purposes.</description>
+      <dc:creator>SARAH MALIK</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 12:25:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brisbane (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manus Island (Papua New Guinea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Melbourne (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nauru</category>
+    </item>
+    <item>
+      <title>China Warns of Arms Race After U.S. Deploys Missile Defense in South Korea</title>
+      <link>http://www.nytimes.com/2017/03/07/world/asia/thaad-missile-defense-us-south-korea-china.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/asia/thaad-missile-defense-us-south-korea-china.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/asia/thaad-missile-defense-us-south-korea-china.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08thaad-4/08thaad-4-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Soldiers guarded the entrance to a golf course where the Terminal High Altitude Area Defense system will be deployed in Seongju, South Korea, on Tuesday.</media:description>
+      <media:credit>Yonhap, via European Pressphoto Agency</media:credit>
+      <description>Beijing denounced the United States&#x2019; decision to use the Thaad technology and vowed to &#x201C;take the necessary steps to safeguard our own security interests.&#x201D;</description>
+      <dc:creator>GERRY MULLANY and CHRIS BUCKLEY</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 12:19:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abe, Shinzo</category>
+    </item>
+    <item>
+      <title>Almost Every Week Is Fashion Week Somewhere in the World</title>
+      <link>http://www.nytimes.com/2017/03/07/fashion/paris-fashion-week-mercedes-benz.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/fashion/paris-fashion-week-mercedes-benz.html</guid>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/fashion/08FASHWEEK2-INYT/08FASHWEEK2-INYT-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Models in Vivian Bennet designs at Africa Fashion Week last summer in Lagos. The idea of holding a fashion week has taken root around the world.</media:description>
+      <media:credit>Pius Utomi Ekpei/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Why so many countries are now engaged in a race to establish their own ready-to-wear showcase. Or two. Or three.</description>
+      <dc:creator>VINCENT BEVINS</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 12:02:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Mercedes-Benz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paris Fashion Week</category>
+    </item>
+    <item>
+      <title>Iraqi Forces Enter Western Mosul, in Fierce Battle Against ISIS</title>
+      <link>http://www.nytimes.com/2017/03/07/world/middleeast/mosul-iraq-isis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/middleeast/mosul-iraq-isis.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/middleeast/mosul-iraq-isis.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08Mosul5/08Mosul5-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Iraqi forces fighting Islamic State militants in western Mosul on Tuesday.</media:description>
+      <media:credit>Aris Messinis/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The chief of the federal police said that soldiers had retaken a government compound, a branch of the central bank and an archaeological museum.</description>
+      <dc:creator>OMAR AL-JAWOSHY and SEWELL CHAN</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 11:57:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mosul (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abadi, Haider al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+    </item>
+    <item>
+      <title>The Best Country in the World? Survey Says It&#x2019;s Switzerland</title>
+      <link>http://www.nytimes.com/2017/03/07/world/best-countries-world-switzerland-canada-britain-germany.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/best-countries-world-switzerland-canada-britain-germany.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/best-countries-world-switzerland-canada-britain-germany.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/06/world/08xp-bestcountries-slide-6OGU/08xp-bestcountries-slide-6OGU-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>For the first time, Switzerland took the top spot on an annual survey of the best countries.</media:description>
+      <media:credit>Fabrice Coffrini/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Its attitude toward education, democracy, business and quality of life helped a European nation top the list. The United States slipped to No. 7.</description>
+      <dc:creator>LIAM STACK</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 11:48:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">US News &amp; World Report</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Wharton School of the University of Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Y&amp;R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+    </item>
+  </channel>
+</rss>

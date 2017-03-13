@@ -71,4 +71,19 @@ class Database
         $stmt->execute([$email]);
         return $stmt->fetch();
     }
+
+    public function beginTransaction()
+    {
+        $this->db->begintransaction();
+    }
+
+    public function commitTransaction()
+    {
+        $this->db->commit();
+    }
+
+    public function rollBackTransaction()
+    {
+        $this->db->rollBackTransaction();
+    }
 }

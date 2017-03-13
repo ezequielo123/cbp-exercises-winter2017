@@ -5,7 +5,7 @@ if ($_POST) {
     $userid = $db->insertuser($_POST['name'], $_POST['email'], $_POST['pass']);
     session_start();
     
-    $_SESSION['userid'] = $userid;
+    $_SESSION['user_id'] = $user->id;
     header('Location: index.php');
 }
 ?>
